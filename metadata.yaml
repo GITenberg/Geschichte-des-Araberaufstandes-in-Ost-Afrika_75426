@@ -1,0 +1,35 @@
+_repo: Geschichte-des-Araberaufstandes-in-Ost-Afrika_75426
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Schmidt, Rochus
+    birthdate: 1860
+    deathdate: 1938
+    gutenberg_agent_id: '57992'
+    url: http://www.gutenberg.org/2009/agents/57992
+    wikipedia: https://de.wikipedia.org/wiki/Rochus_Schmidt
+description: ''
+gutenberg_issued: '2025-02-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75426'
+language: de
+pgterms:marc904: https://opacplus.bsb-muenchen.de/title/BV003602562/output.txt
+pgterms:marc905: 20230404094106schmidt
+pgterms:marc906: '1892'
+pgterms:marc907: de
+production_note: "Peter Becker, Hans Theyer and the Online Distributed Proofreading\
+  \ Team at \r\nhttps://www.pgdp.net (This file was produced from images generously\
+  \ made \r\navailable by  Bayerische Staatsbibliothek)"
+publication_note: '  $aFrankfurt/Oder :$bVerlag der Königlichen Hofbuchdruckerei Trowitzsch
+  & Sohn, $c1892.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Arabs -- Tanzania'
+- !lcsh 'Tanzania -- History'
+- !lcc 'DT'
+- GITenberg
+title: Geschichte des Araberaufstandes in Ost-Afrika
+url: http://www.gutenberg.org/ebooks/75426
