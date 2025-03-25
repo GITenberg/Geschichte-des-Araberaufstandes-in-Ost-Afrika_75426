@@ -1,5 +1,8 @@
 _repo: Geschichte-des-Araberaufstandes-in-Ost-Afrika_75426
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75426-h/images/cover.jpg
 creator:
   author:
     agent_name: Schmidt, Rochus
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/57992
     wikipedia: https://de.wikipedia.org/wiki/Rochus_Schmidt
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75426#Geschichte-des-Araberaufstandes-in-Ost-Afrika
 gutenberg_issued: '2025-02-20'
 gutenberg_type: Text
 identifiers:
